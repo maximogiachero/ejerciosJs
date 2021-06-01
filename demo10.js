@@ -25,4 +25,4 @@ var name ='maxi'
 
 var number = 43
 
-var boolen = 'true'
+var boolen = true
