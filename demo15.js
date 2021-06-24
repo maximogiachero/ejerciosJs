@@ -14,3 +14,7 @@ console.log(juegos.juegos2)
 
 var juego=['batman akham asilum','batman arkhama city','arsenal','my island','funki friday','jailbreak','bluid boat','tycoon','half life']
 
+juego.forEach( function ( element, index )  {
+console.log(element)
+console.log(index)
+});
