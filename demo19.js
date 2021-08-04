@@ -23,3 +23,9 @@ console.log('si es false la propiedad denegar')
 
 
 }
+
+
+/* Excelente razonamiento cuando has encontrado los erroes en el codigo!!! 
+ muy bien al comprender y corregir como se accede a las propiedades de los objetos!
+ Gran trabajo ! Puntaje 9!
+*/
